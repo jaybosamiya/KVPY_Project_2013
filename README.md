@@ -17,3 +17,8 @@ Duration
 --------
 
 25th June 2013 to 11th July 2013
+
+License
+-------
+
+[MIT License](http://jay.mit-license.org/2013)
